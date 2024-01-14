@@ -8,6 +8,8 @@
 
 - 🔭 My currently work completed on [Netflix-Data-Visulization](https://github.com/rajsingh162120/NetflixDataVisulization)
 
+- Check out the live version of this project on [Netflix-Data-Visulization](https://netflixdatavisulization.streamlit.app/)
+  
 - 🌱 I’m currently learning **Pandas**
 
 - 💬 Ask me about **SQl , Python , Power bi**
