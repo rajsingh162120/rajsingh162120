@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" alt="MasterHead" width="700" height="250">
+<img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" alt="MasterHead" width="800" height="300">
 
 <h1 align="center">Hi 👋, I'm Raj Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
