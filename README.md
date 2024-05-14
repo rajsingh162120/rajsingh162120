@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingh162120&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingh162120" /> </p>
 
-- 🔭 My currently work completed on [Netflix-Data-Visulization](https://github.com/rajsingh162120/NetflixDataVisulization)
+- 🔭 My currently work completed on [My-Portfolio](https://github.com/rajsingh162120/Portfolio)
 
-- Check out the live version of this project on [Netflix-Data-Visulization](https://net-flix.streamlit.app/)
+- Check out the live version of this project on [Raj-Singh](https://rajsingh.streamlit.app/)
   
 - 🌱 I’m currently learning **Pandas**
 
