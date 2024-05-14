@@ -10,7 +10,7 @@
 
 - Check out the live version of this project on [Raj-Singh](https://rajsingh.streamlit.app/)
   
-- 🌱 I’m currently learning **Pandas**
+- 🌱 I’m currently learning **Machine-Learning**
 
 - 💬 Ask me about **SQl , Python , Power bi**
 
